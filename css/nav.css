@@ -1,0 +1,40 @@
+.example::-webkit-scrollbar {
+  display: none;
+}
+nav {
+	float: center;
+  background-color:#ad6a34;
+overflow:hidden;
+}
+nav a {
+	text-decoration: none;
+	font-family: poppins;
+	letter-spacing: 2px;
+	font-size: 20px;
+
+	color: #fff;
+}
+
+#nvb a:hover 
+{
+    background-color: #4e1d04;
+    color:  #ad6a34;
+    border:3px;
+    box-sizing: 3px;
+    margin-bottom: 3px;
+  
+}
+
+#nvb a {
+  float: left;
+  color:#4e1d04;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#nvb2{
+  float: right;
+}
+

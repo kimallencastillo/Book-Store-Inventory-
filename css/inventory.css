@@ -1,0 +1,90 @@
+
+ 
+
+
+   .tb1 {
+    border: 1px solid #4E1D04;
+    border-collapse: none;
+    border-spacing: 0;
+    width: auto;
+    text-align: center;
+    background-color: white; 
+   }
+
+   .t1{
+    border: 1px solid #4E1D04; 
+    
+
+   }
+   .t2 {
+    border: 1px solid #4E1D04; 
+
+   }
+
+   .t1{
+       height: 100%;
+       width:auto;
+   }
+   .tB {
+        margin-left: 20px;
+        font-size: 55px;
+    }
+    .tb2, td, tr {
+       margin-right: 60px;
+       width: 200px;
+       
+       margin-left: 145px;
+
+    }
+    .tb3 {
+        float: left;
+        size: 55px;
+       
+    }
+    
+    .btn-1 {
+        margin: 50p;
+        width: 120px;
+        height: 30px;
+        background-color: #4E1D04;
+        color: white;
+  
+    }
+    .col {
+        float: left;
+        width: 50%;
+        padding: 5px;
+      
+    }
+
+
+    input{
+        width:100%;
+        border: 2px solid #4E1D04;
+        color:#4E1D04; 
+
+    }
+
+    select{
+        width:100%;
+        border: 2px solid #4E1D04;
+        color:#4E1D04; 
+        text-align: center;
+        
+    }
+    select::after{
+        width:100%;
+        border: 2px solid #4E1D04;
+        color:#4E1D04; 
+        text-align: center;
+        
+    }
+
+    
+   button{
+        border-radius: 2px;
+        width:30%;
+
+    }
+
+    
